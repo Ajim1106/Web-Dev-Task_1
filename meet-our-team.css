@@ -1,0 +1,33 @@
+.container {
+    border: 2px solid black;
+}
+
+.team-member {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.team-member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.management-header {
+    background-color: #C96DE3;
+    color: #ffffff;
+    padding: 16px;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.dashed-line {
+    border-bottom: 3px dashed #C96DE3;
+}
+
+.employee-designation {
+    color: #C96DE3;
+    font-style: italic;
+}
